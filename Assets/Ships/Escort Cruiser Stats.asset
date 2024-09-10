@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e239b2850fef0714aa3d6dd3e336e2ca, type: 3}
+  m_Name: Escort Cruiser Stats
+  m_EditorClassIdentifier: 
+  cost: 80
+  symbol: EC
+  isShip: 1
+  transport: 1
+  health: 23
+  armor: 2
+  shields: 11
+  repair: 3
+  shieldRegeneration: 2
+  speed: 4
+  evasion: 35
+  armament:
+  - {fileID: 11400000, guid: 06bf12fd221aeb147ac5f231b6979659, type: 2}
+  - {fileID: 11400000, guid: da8a4648eb9de4d4c82ac4dec7aaf515, type: 2}
+  - {fileID: 11400000, guid: da8a4648eb9de4d4c82ac4dec7aaf515, type: 2}
+  - {fileID: 11400000, guid: da8a4648eb9de4d4c82ac4dec7aaf515, type: 2}
+  - {fileID: 11400000, guid: 4c9329f0e0a4e254eb4e8b8e9ea4d28d, type: 2}
+  - {fileID: 11400000, guid: 4c9329f0e0a4e254eb4e8b8e9ea4d28d, type: 2}

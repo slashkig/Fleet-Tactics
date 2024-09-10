@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e239b2850fef0714aa3d6dd3e336e2ca, type: 3}
+  m_Name: Juggernaut Stats
+  m_EditorClassIdentifier: 
+  cost: 214
+  symbol: JN
+  isShip: 1
+  transport: 10
+  health: 67
+  armor: 4
+  shields: 28
+  repair: 8
+  shieldRegeneration: 4
+  speed: 1
+  evasion: 5
+  armament:
+  - {fileID: 11400000, guid: cba35332311089e418c3b5c37a44eb95, type: 2}
+  - {fileID: 11400000, guid: 7041671b12d4e8e46a103fb63d1a7449, type: 2}
+  - {fileID: 11400000, guid: bd38317364ed9df4385f5ae1a21ec702, type: 2}
+  - {fileID: 11400000, guid: bd38317364ed9df4385f5ae1a21ec702, type: 2}
+  - {fileID: 11400000, guid: 342f12cb6b801aa499a24be0c87397bc, type: 2}
+  - {fileID: 11400000, guid: 6efd1290795c95e409c71bd9f5f5a9d3, type: 2}

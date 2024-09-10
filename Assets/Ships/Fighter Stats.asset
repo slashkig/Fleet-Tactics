@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e239b2850fef0714aa3d6dd3e336e2ca, type: 3}
+  m_Name: Fighter Stats
+  m_EditorClassIdentifier: 
+  cost: 7
+  symbol: f
+  isShip: 0
+  transport: -1
+  health: 2
+  armor: 0
+  shields: 0
+  repair: 0
+  shieldRegeneration: 0
+  speed: 5
+  evasion: 105
+  armament:
+  - {fileID: 11400000, guid: 4c9329f0e0a4e254eb4e8b8e9ea4d28d, type: 2}

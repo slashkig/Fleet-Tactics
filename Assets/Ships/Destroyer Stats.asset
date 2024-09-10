@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e239b2850fef0714aa3d6dd3e336e2ca, type: 3}
+  m_Name: Destroyer Stats
+  m_EditorClassIdentifier: 
+  cost: 52
+  symbol: D
+  isShip: 1
+  transport: 0
+  health: 14
+  armor: 1
+  shields: 7
+  repair: 3
+  shieldRegeneration: 2
+  speed: 5
+  evasion: 44
+  armament:
+  - {fileID: 11400000, guid: db9b877a9ed80ea41b60599e4bd5979d, type: 2}
+  - {fileID: 11400000, guid: da8a4648eb9de4d4c82ac4dec7aaf515, type: 2}
+  - {fileID: 11400000, guid: da8a4648eb9de4d4c82ac4dec7aaf515, type: 2}
+  - {fileID: 11400000, guid: 4c9329f0e0a4e254eb4e8b8e9ea4d28d, type: 2}

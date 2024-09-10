@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e239b2850fef0714aa3d6dd3e336e2ca, type: 3}
+  m_Name: Cruiser Stats
+  m_EditorClassIdentifier: 
+  cost: 85
+  symbol: C
+  isShip: 1
+  transport: 1
+  health: 25
+  armor: 2
+  shields: 12
+  repair: 4
+  shieldRegeneration: 2
+  speed: 3
+  evasion: 30
+  armament:
+  - {fileID: 11400000, guid: 342f12cb6b801aa499a24be0c87397bc, type: 2}
+  - {fileID: 11400000, guid: 342f12cb6b801aa499a24be0c87397bc, type: 2}
+  - {fileID: 11400000, guid: 64a92d90010b3de44af9ef316620b6a8, type: 2}
